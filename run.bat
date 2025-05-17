@@ -1,2 +1,2 @@
-cd %~dp0
+cd /d %~dp0
 robot .\Tests\FirstTest.robot
